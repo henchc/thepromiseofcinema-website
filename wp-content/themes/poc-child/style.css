@@ -1,0 +1,131 @@
+/*
+ Theme Name:   PoC Child
+ Theme URI:    
+ Description:  Cut down version
+ Author:       Christopher Hench
+ Author URI:   
+ Template:     poc
+ Version:      1.0.0
+ Tags:         black, green, white, light, dark, two-columns, three-columns, left-sidebar, right-sidebar, fixed-layout, responsive-layout, custom-background, custom-header, custom-menu, editor-style, featured-images, flexible-header, full-width-template, microformats, post-formats, rtl-language-support, sticky-post, theme-options, translation-ready, accessibility-ready, responsive-layout, infinite-scroll, post-slider, design, food, journal, magazine, news, photography, portfolio, clean, contemporary, dark, elegant, modern, professional, sophisticated
+ Text Domain:  poc-child
+*/
+
+.fluid-width-video-wrapper iframe {
+     left: 130px !important;
+     width: 75% !important;
+     height: 75% !important;
+}
+
+p {
+	font-weight: 500;
+}
+
+.ye-container {
+    position: relative;
+    padding-bottom: 56.25%;
+    padding-top: 30px;
+    height: 0;
+    overflow: hidden;
+}
+
+.ye-container iframe,
+.ye-container object,
+.ye-container embed {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+p {
+    font-weight: 600;
+}
+
+table {
+    border: 0 solid #000;
+}
+
+th, td {
+    border: 0 solid #000;
+}
+
+.mobile-theme .menu-search,
+.mobile-theme .search-form #s {
+    background-color: #D02630;
+}
+
+.mobile-theme .sidebar-widget a {
+    color: #000000;
+}
+
+.mobile-theme .widget-title {
+    border-bottom: 0 solid #9c9c9c;
+    color: #000000;
+    font-family: ralewaybold;
+    font-size: 16px;
+    padding-bottom: 10px;
+    text-transform: uppercase;
+}
+
+strong, b {
+    font-weight: 800;
+}
+
+.sidebar-widget h3 {
+    font-size: 13px;
+    text-transform: uppercase;
+    color: #ffffff;
+    font-family: 'helvetica';
+    margin-top: 0;
+}
+
+.sidebar-widget a {
+    color: #FFFFFF;
+}
+
+.sidebar-widget a:hover {
+    background-color: #FFFFFF;
+}
+
+.widget-title {
+    border-bottom: 0 solid #9c9c9c;
+    color: #ffffff;
+    font-family: ralewaybold;
+    font-size: 16px;
+    padding-bottom: 10px;
+    text-transform: uppercase;
+}
+
+.mobile-theme #secondary {
+    display: none;
+}
+
+.ourblog-box {
+    padding: 30px;
+}
+
+.fulgent-menu {
+    margin-right: 5%;
+}
+
+.home .fulgent-menu {
+    margin-right: 5%;
+}
+
+.home .widget-title {
+    border-bottom: 0 solid #9c9c9c;
+    color: #ffffff;
+    font-family: ralewaybold;
+    font-size: 16px;
+    padding-bottom: 10px;
+    text-transform: uppercase;
+}
+
+.home .sidebar-widget h3 {
+    font-size: 13px;
+    text-transform: uppercase;
+    color: #ffffff;
+    font-family: 'helvetica';
+    margin-top: 0;
+}
