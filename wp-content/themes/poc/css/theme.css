@@ -86,7 +86,7 @@ header.fixed {
 .fulgent-menu ul,
 .fulgent-menu ul ul{list-style:none;padding:0;margin:0;}
 .fulgent-menu > ul > li{display:block;float:left;position:relative;border-bottom:1px solid transparent;margin:2px 15px 0;}
-.fulgent-menu ul a{border-left:3px solid rgba(0, 0, 0, 0);color:#ffffff;display:block;font-family:'ralewaybold';font-size:14px;padding:0px 0 30px 0;text-decoration:none;text-transform:uppercase;}
+.fulgent-menu ul a{border-left:3px solid rgba(0, 0, 0, 0);color:#ffffff;display:block;font-family:'ralewaybold';font-size:12px;padding:0px 0 30px 0;text-decoration:none;text-transform:uppercase;}
 .fulgent-menu ul li:hover,
 .fulgent-menu ul li.active{border-bottom:1px solid #d2232a;}
 .fulgent-menu ul li:hover > a,
