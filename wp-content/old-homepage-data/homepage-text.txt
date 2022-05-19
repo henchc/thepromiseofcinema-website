@@ -1,0 +1,24 @@
+<img loading="lazy" class="wp-image-1424 size-medium alignleft" src="https://thepromiseofcinema.com/wp-content/uploads/2015/12/poccoverdesign.jpg?resize=210%2C300" 
+	width="210" height="300" srcset="https://thepromiseofcinema.com/wp-content/uploads/2015/12/poccoverdesign.jpg?resize=210%2C300 210w, 
+	https://thepromiseofcinema.com/wp-content/uploads/2015/12/poccoverdesign.jpg?resize=768%2C1097 768w, 
+	https://thepromiseofcinema.com/wp-content/uploads/2015/12/poccoverdesign.jpg?resize=717%2C1024 717w" 
+	sizes="(max-width: 210px) 100vw, 210px" data-recalc-dims="1">
+
+	This website serves as an archive and forum for research on Weimar cinema, 
+	often considered one of the most innovative and influential
+	periods in the history of film. While building on the sourcebook <a href="./index.php/the-book/index.html" target="_blank"><em>The
+	Promise of Cinema: German Film Theory, 1907–1933</em></a>, this site offers several
+	new features, including online access to early German <a href="./index.php/streaming-films/index.html" target="_blank">films</a> as well
+	as digitized <a href="./index.php/further-texts-in-german/index.html" target="_blank">books</a> and <a href="./index.php/digitized-historical-journals/index.html" target="_blank">journals</a> from period. We also draw links between
+	<a href="./index.php/films/index.html">selected films</a> and texts from the book, and list new <a href="./index.php/new-publications/index.html" target="_blank">publications</a>
+	and <a href="./index.php/new-restorations/index.html" target="_blank">restorations</a>. In a section called <a href="./index.php/explorations/index.html" target="_blank">Explorations</a>, we experiment with
+	materials for a conceptual approach to film history – finding dynamic
+	constellations between past and present, local and global, film and theory. 
+	The website also features original <a href="./index.php/essays/index.html" target="_blank">essays</a> by scholars who reflect on the
+	promise of cinema against the backdrop of contemporary work in media
+	archaeology.  We are planning to add new chapters about Weimar cinema’s
+	relation to colonialism, sexuality, environment, and democracy. For
+	suggestions and proposed contributions, please contact us <a href="./index.php/contact-2/index.html" target="_blank">here</a>.</p>
+<p><em>The Promise of Cinema: German Film Theory, 1907-1933 </em>is available through the <a href="http://www.ucpress.edu/book.php?isbn=9780520219083" target="_blank">publisher</a>, 
+	University of California Press, and <u><a href="https://www.amazon.com/Promise-Cinema-1907-1933-Cultural-Criticism/dp/0520219082" target="_blank">Amazon.com</a></u>. 
+	Some university libraries may also carry it under license as an e-book.</p>
